@@ -13,6 +13,8 @@
 ![png](https://github.com/missating/nodejs-todo/blob/master/todo.png?raw=true 'web todo')
 
 <br>
+<br>
+<br>
 
 <p> How to run the app locally: </p>
 
