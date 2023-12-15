@@ -13,7 +13,13 @@
 ![png](https://github.com/missating/nodejs-todo/blob/master/todo.png?raw=true 'web todo')
 
 <br>
+<<<<<<< HEAD
 hewuif
+=======
+<br>
+<br>
+
+>>>>>>> f1d01439371f6653c0a3c4f311532915bf2e474d
 <p> How to run the app locally: </p>
 
 <ol>
